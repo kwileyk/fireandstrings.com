@@ -1,0 +1,1 @@
+body {	background-image: url(../images/header_front.jpg);	margin-top: 230px;}#navHome {	display: none;}#extradata {	display: none;  	color: #FFF;	border: 1px red solid;	padding: 5px;	position:absolute; 	left:780px; 	top:10px; 	width:150px; 	height:100%; }
